@@ -5,3 +5,4 @@ Continuing the learning of the awsome language taking it one level up with the [
 
 * Chapter-2 Using Modules
 * Chapter-3 Intermediate Foundations
+* Chapter-4 Introduction to References
